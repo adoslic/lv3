@@ -25,7 +25,7 @@ class User extends Authenticatable
     ];
 
     
-
+    //Korisnik može imati više projekata
     public function projects(){
         return $this->hasMany(Project::class);
     }

@@ -1,0 +1,12 @@
+Prvi zadatak je napravljen uz pomoc "php artisan make:auth" naredbe.
+
+U drugom zadatku napravio sam model Project s potrebnim atributima. 
+Naredba s kojom sam napravio model je "php artisan make:model -m". 
+Uz pomoc -m je napravljena migracija koju sam naknadno uredio.
+Bilo je potrebno i u env dokumentu promjenit podatke s kojima se povezujem na bazu.
+
+Za treci i cetvrti zadatak sam napravio kontroler. Kontroler i njegove funkcije su opisane u kodu.
+U cetvrtom zadatku sam napravio da korisnik može vidjeti projekte na kojima je on voditelj, 
+ali nisam napravio da mu se prikazuju i projekti gdje je on clan projektnog tima.
+
+Peti zadatak nisam napravio.
